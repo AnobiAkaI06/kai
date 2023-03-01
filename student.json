@@ -1,12 +1,26 @@
 {
-    "student": [
-        {
-            "name": "Marinella C. Anobia",
-            "age": 20,
-            "favoriteQoutes": "Opportunities don't happen, you create them.",
-            "classSection": "BSIT 3A",
-            "classCode": "T221",
-            "buksEmail": "2001104806@student.buksu.edu.ph"
-        }
-     ]
+  "students": [
+    {
+      "name": "Marinella Anobia",
+      "age": 20,
+      "quotes": "The love is sweeter the second time around."
+    },
+    {
+      "name": "Kaito Sama",
+      "age": 19,
+      "quotes": "Tommorow by together."
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section A",
+      "sectioncode": "T221",
+      "buksuemail": "2001104806@student.buksu.edu.ph"
+    },
+    {
+      "classsection": "Section C",
+      "sectioncode": "T222",
+      "buksuemail": "Txt@buksu.edu.ph"
+    }
+  ]
 }
